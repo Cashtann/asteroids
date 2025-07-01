@@ -11,3 +11,4 @@ Asteroids game made in Python using Pygame
 python3 main.py
 ```
 
+Credit: [boot.dev](https://www.boot.dev)
